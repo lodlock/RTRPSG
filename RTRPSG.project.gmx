@@ -31,6 +31,7 @@
     <sprite>sprites\spr_rock_material</sprite>
     <sprite>sprites\s_repo</sprite>
     <sprite>sprites\sprite24</sprite>
+    <sprite>sprites\s_terry</sprite>
     <sprite>sprites\s_Rob</sprite>
   </sprites>
   <backgrounds name="background">
