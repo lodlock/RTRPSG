@@ -35,6 +35,7 @@
     <sprite>sprites\sprite27</sprite>
     <sprite>sprites\sprite28</sprite>
     <sprite>sprites\s_Rob</sprite>
+    <sprite>sprites\sprite29</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_0</background>
