@@ -30,11 +30,7 @@
     <sprite>sprites\spr_wood_material</sprite>
     <sprite>sprites\spr_rock_material</sprite>
     <sprite>sprites\s_repo</sprite>
-<<<<<<< HEAD
-    <sprite>sprites\s_testRob</sprite>
-=======
     <sprite>sprites\sprite24</sprite>
->>>>>>> 4853e61061f0a4b920526223520a6e3a7e96e37e
   </sprites>
   <backgrounds name="background">
     <background>background\bg_0</background>
