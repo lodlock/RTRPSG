@@ -6,7 +6,6 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
-    <sprite>sprites\spr_peep</sprite>
     <sprite>sprites\spr_slot</sprite>
     <sprite>sprites\spr_weapon_slot</sprite>
     <sprite>sprites\spr_sheild_slot</sprite>
@@ -29,15 +28,6 @@
     <sprite>sprites\eq_swords</sprite>
     <sprite>sprites\spr_wood_material</sprite>
     <sprite>sprites\spr_rock_material</sprite>
-    <sprite>sprites\s_repo</sprite>
-    <sprite>sprites\sprite24</sprite>
-    <sprite>sprites\s_terry</sprite>
-    <sprite>sprites\sprite27</sprite>
-    <sprite>sprites\sprite28</sprite>
-    <sprite>sprites\s_Rob</sprite>
-    <sprite>sprites\sprite29</sprite>
-    <sprite>sprites\sprite30</sprite>
-    <sprite>sprites\sprite31</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_0</background>
