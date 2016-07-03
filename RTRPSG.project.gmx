@@ -29,6 +29,7 @@
     <sprite>sprites\eq_swords</sprite>
     <sprite>sprites\spr_wood_material</sprite>
     <sprite>sprites\spr_rock_material</sprite>
+    <sprite>sprites\s_repo</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\bg_0</background>
